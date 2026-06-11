@@ -43,6 +43,15 @@ An IoT-based automation system designed to monitor and control greenhouse enviro
 Full documentation available in `/report` folder.
 
 ---
+👥 Development Team
+
+Rajapaksha K.Ν.
+Wickramasinghe A.H.
+Rukshan R. A. R.
+Dampahalage K. V.
+Fernando B.S.H.A.
+Gunawardhana H.K.D.
+---
 
 ## 📌 Note
 This is a university group project completed at SLIIT as part of the Fundamentals of Computing module.
