@@ -36,7 +36,6 @@ An IoT-based automation system designed to monitor and control greenhouse enviro
 
 ![Circuit](images/circuit.jpg)  
 ![Prototype](images/prototype.jpg)  
-![Dashboard](images/dashboard.png)
 
 ---
 
